@@ -1,4 +1,4 @@
-package com.desafioklab.Desafio_klab.response;
+package com.desafioklab.Desafio_klab.model.response;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
