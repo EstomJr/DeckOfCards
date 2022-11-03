@@ -13,7 +13,7 @@
 
 ### ✅ Principais Endpoints
 
-#### Gerenciamento de Autores
+#### Inicio do jogo
 
 |*Operação*|*HTTP Method*| *URI*|
 |--|--|--|
