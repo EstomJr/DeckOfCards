@@ -1,6 +1,6 @@
 package com.desafioklab.Desafio_klab.client;
 
-import deck.entities.Root;
+import com.desafioklab.Desafio_klab.model.response.Root;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
